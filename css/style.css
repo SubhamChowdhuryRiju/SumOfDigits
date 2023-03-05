@@ -22,3 +22,8 @@ hr {
     border: solid;
     border-style: double;
 }
+
+.input {
+    height: 31px;
+    width: 144px;
+}
