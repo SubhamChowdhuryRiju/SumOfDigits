@@ -27,3 +27,7 @@ hr {
     height: 31px;
     width: 144px;
 }
+
+h6 {
+    text-align: right;
+}
